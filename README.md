@@ -46,8 +46,9 @@ I'm an *Android Developer*, *Technical Speaker*, *Blog Writer*, and *Tech Commun
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
 </p>
 
-<!-- Note: Jetpack Compose and Android SDK do not currently have icons on Skillicons.dev,
-so you can mention them textually or with custom badges if needed -->
+- Jetpack Compose  
+- Android SDK
+
 
 
 
