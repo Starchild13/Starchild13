@@ -1,16 +1,33 @@
-## Hi there 👋
+### Hello, I'm Jess 🐱‍💻⚡ 
+I'm a *Android Developer*,*Technical Speaker*,*Blog Writer* and *Tech Community Leader* passionate about building solutions for society.
 
 
-**Starchild13/Starchild13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalamiTech&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+•⁠  ⁠🔭 I’m currently working on a mobile application for Tech Mentorship.
+•⁠  ⁠🌱 I’m currently exploring Flutter and building for different devices. 
+•⁠  ⁠👯 I’m looking to collaborate on cool Android projects.
+•⁠  ⁠💬 Apart from tech, we can talk about Coffee.
+•⁠  ⁠📫 Reach me on https://sites.google.com/view/jessicarandall/home?authuser=0
+•⁠  ⁠⚡  Tech, Maths & Coffee
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+<div style="display:flex;justify-content: space-between">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Starchild13&theme=ayu-mirage&hide_border=true" width="49.5%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Starchild13&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.4%"/>
+
+</div>  
+<br/>
+
+
+
+
 
