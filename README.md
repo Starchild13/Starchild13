@@ -5,12 +5,12 @@ I'm a *Android Developer*,*Technical Speaker*,*Blog Writer* and *Tech Community 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalamiTech&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
 
-•⁠  ⁠🔭 I’m currently working on a mobile application for Tech Mentorship.
-•⁠  ⁠🌱 I’m currently exploring Flutter and building for different devices. 
-•⁠  ⁠👯 I’m looking to collaborate on cool Android projects.
-•⁠  ⁠💬 Apart from tech, we can talk about Coffee.
-•⁠  ⁠📫 Reach me on https://sites.google.com/view/jessicarandall/home?authuser=0
-•⁠  ⁠⚡  Tech, Maths & Coffee
+•⁠  ⁠🔭 I’m currently working on a mobile application for Tech Mentorship.<br />
+•⁠  ⁠🌱 I’m currently exploring Flutter and building for different devices. <br />
+•⁠  ⁠👯 I’m looking to collaborate on cool Android projects.<br />
+•⁠  ⁠💬 Apart from tech, we can talk about Coffee.<br />
+•⁠  ⁠📫 Reach me on https://sites.google.com/view/jessicarandall/home?authuser=0<br />
+•⁠  ⁠⚡  Tech, Maths & Coffee<br />
 
 <br />
 <br />
