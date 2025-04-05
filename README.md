@@ -26,9 +26,9 @@ I'm an *Android Developer*, *Technical Speaker*, *Blog Writer*, and *Tech Commun
 ### 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" />
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Kotlin" />
+  <img src="https://skillicons.dev/icons?i=kotlin" alt="Dart" />
+  <img src="https://skillicons.dev/icons?i=dart" alt="Python" />
   <img src="https://skillicons.dev/icons?i=matlab" alt="Matlab" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
   <img src="https://skillicons.dev/icons?i=sas" alt="SAS" />
