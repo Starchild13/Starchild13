@@ -2,10 +2,12 @@
 
 **Android Developer | Cross-Platform Development Enthusiast | Technical Speaker | Writer | Tech Community Leader**
 
-I'm a developer passionate about building meaningful digital experiences, exploring emerging technologies, and creating solutions that make a difference. I enjoy turning ideas into applications, sharing knowledge, and contributing to a growing tech community.
+I'm a developer passionate about building meaningful digital experiences, exploring emerging technologies, and creating solutions that make a difference.
+
+I enjoy turning ideas into applications, sharing knowledge through technical speaking and writing, and contributing to a growing technology community.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starchild13&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="42%" align="right" alt="Most used programming languages" />
+  <img align="right" width="38%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Starchild13&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=10" alt="Most used programming languages" />
 </p>
 
 ### ✨ About Me
@@ -27,8 +29,11 @@ I'm a developer passionate about building meaningful digital experiences, explor
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Starchild13&theme=ayu-mirage&hide_border=true" width="49%" alt="GitHub contribution streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Starchild13&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49%" alt="GitHub statistics" />
+
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=Starchild13&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true" alt="GitHub statistics" />
+
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Starchild13&theme=ayu-mirage&hide_border=true" alt="GitHub contribution streak" />
+
 </div>
 
 ---
@@ -36,17 +41,15 @@ I'm a developer passionate about building meaningful digital experiences, explor
 ### 💻 Languages
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,dart,python,matlab,bash&theme=dark" alt="Kotlin, Dart, Python, MATLAB and Bash" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,python,matlab,bash&theme=dark" alt="Kotlin, Dart, Python, MATLAB and Bash" />
 </div>
+
+---
 
 ### ⚙️ Frameworks & Tools
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase,supabase,nodejs,git,github,figma,postman&theme=dark" alt="Flutter, Android Studio, Firebase, Supabase, Node.js, Git, GitHub, Figma and Postman" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase,supabase,nodejs,git,github,figma,postman&theme=dark" alt="Flutter, Android Studio, Firebase, Supabase, Node.js, Git, GitHub, Figma and Postman" />
 </div>
 
 **Also familiar with:**
