@@ -4,51 +4,56 @@
 
 I'm a developer passionate about building meaningful digital experiences, exploring emerging technologies, and creating solutions that make a difference. I enjoy turning ideas into applications, sharing knowledge, and contributing to a growing tech community.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starchild13&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Starchild13&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="42%" align="right" alt="Most used programming languages" />
+</p>
 
 ### ✨ About Me
 
 - 🔭 Currently building **Moodie**, a mood-based mobile application.
-- 🌱 Exploring **cross-platform development** and building applications for multiple devices.
-- 📱 Passionate about Android development and creating intuitive mobile experiences.
+- 🌱 Exploring **cross-platform development** with Flutter.
+- 📱 Passionate about Android development and mobile experiences.
 - 🤖 Exploring Artificial Intelligence, Machine Learning, and on-device AI.
-- 🎤 Enjoy sharing knowledge through technical speaking and writing.
-- 👯 Open to collaborating on exciting mobile and open-source projects.
-- 🌍 Passionate about technology, innovation, and building solutions for society.
+- 🎤 Technical speaker, writer, and technology community leader.
+- 👯 Open to collaborating on innovative mobile and open-source projects.
+- 🌍 Passionate about using technology to solve real-world problems.
 - ☕ Tech, Maths & Coffee.
 - 📫 [Let's connect](https://sites.google.com/view/jessicarandall/home?authuser=0)
+
+<br clear="right"/>
 
 ---
 
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Starchild13&theme=ayu-mirage&hide_border=true" width="49.5%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Starchild13&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.4%" />
+  <img src="https://streak-stats.demolab.com/?user=Starchild13&theme=ayu-mirage&hide_border=true" width="49%" alt="GitHub contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Starchild13&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49%" alt="GitHub statistics" />
 </div>
 
 ---
 
 ### 💻 Languages
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,dart,python,matlab,bash,sas" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,dart,python,matlab,bash&theme=dark" alt="Kotlin, Dart, Python, MATLAB and Bash" />
+  </a>
 </div>
 
----
+### ⚙️ Frameworks & Tools
 
-### ⚙️ Tools & Technologies
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,git,github,figma,postman,nodejs" />
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase,supabase,nodejs,git,github,figma,postman&theme=dark" alt="Flutter, Android Studio, Firebase, Supabase, Node.js, Git, GitHub, Figma and Postman" />
+  </a>
 </div>
 
-**Also working with:**
+**Also familiar with:**
 - Jetpack Compose
 - Android SDK
-- Firebase
-- Supabase
 - REST APIs
+- SAS
 
 ---
 
